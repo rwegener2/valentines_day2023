@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/valentines_day2023/precache-manifest.bbbdfb9743f524ab49b5da6fbc7c9ddb.js"
+  "/valentines_day2023/precache-manifest.2842aa0dbf032e9b7e33bbe1d370752b.js"
 );
 
 workbox.clientsClaim();
